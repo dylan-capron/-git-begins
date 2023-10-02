@@ -2,4 +2,6 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 git add .
 git commit - m "com" 
 git push
+git branch add-create-branch-command
+git checkout 
 
